@@ -51,7 +51,7 @@ console.log("this is recipe",recipe)
       </div>
       <div className="info">
         <p>Takes about {cooking_time} mins to cook.</p>
-        <h3>Ingredients:</h3>
+        <h3>Ingredients for how to make dish:</h3>
         <p>{ingrediants}</p>
       </div>
       <div className="method">
